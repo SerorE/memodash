@@ -21,11 +21,9 @@ function App() {
   }, []);
 
   var gapi = window.gapi;
-  var CLIENT_ID =
-    "869895177524-k98tv2jn17rvjmko16q6p4fgn4m0hf2v.apps.googleusercontent.com";
-  // var API_KEY = "AIzaSyDO_bW-651RAiBv9V1MfrfbOfTy4tJ-chQ";
+ 
 
-  var API_KEY = "AIzaSyDO_bW-651RAiBv9V1MfrfbOfTy4tJ-chQ";
+  RAJOUTER CLIENT_ID ET API_KEY ICI
 
   // Array of API discovery doc URLs for APIs used by the quickstart
   var DISCOVERY_DOCS = [
